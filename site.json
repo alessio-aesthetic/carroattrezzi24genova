@@ -1,8 +1,8 @@
 {
   "city": "Genova",
   "domain": "carroattrezzi24genova.it",
-  "brand": "PONENTE / RECUPERI",
-  "phone": null,
+  "brand": "Ponente Recuperi",
+  "phone": "010 238 0432",
   "address": null,
   "email": "assistenza@carroattrezzi24genova.it",
   "nearby": [
@@ -14,5 +14,12 @@
     "Campomorone"
   ],
   "contactStatus": "awaiting_verified_phone_and_address",
-  "theme": "dock"
+  "theme": "dock",
+  "brandIdentity": {
+    "version": 2,
+    "concept": "Sigillo nautico dentellato, gancio a P e tipografia condensata da cantiere.",
+    "primary": "/assets/brand/logo-primary.svg",
+    "reverse": "/assets/brand/logo-reverse.svg",
+    "symbol": "/assets/brand/symbol.svg"
+  }
 }
