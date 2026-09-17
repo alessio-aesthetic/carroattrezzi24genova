@@ -1,0 +1,18 @@
+{
+  "city": "Genova",
+  "domain": "carroattrezzi24genova.it",
+  "brand": "PONENTE / RECUPERI",
+  "phone": null,
+  "address": null,
+  "email": "assistenza@carroattrezzi24genova.it",
+  "nearby": [
+    "Arenzano",
+    "Cogoleto",
+    "Bogliasco",
+    "Sori",
+    "Recco",
+    "Campomorone"
+  ],
+  "contactStatus": "awaiting_verified_phone_and_address",
+  "theme": "dock"
+}
